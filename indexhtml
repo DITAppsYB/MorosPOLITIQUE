@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Politique de confidentialité</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        h1 {
+            color: #333;
+            background-color: #f9f9f9;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        h2 {
+            color: #444;
+            margin-top: 30px;
+        }
+
+        p {
+            color: #666;
+            line-height: 1.6;
+            margin: 10px 0;
+        }
+
+        body > p {
+            padding: 10px;
+            background-color: #f9f9f9;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Politique de confidentialité de l'application Moros</h1>
+    
+    <p>Date d'entrée en vigueur : 30/07/2023</p>
+    
+    <h2>1. Collecte des informations</h2>
+    <p>Quand vous utilisez notre application Moros, nous collectons les informations personnelles que vous nous donnez directement, comme vos nom, prénom, adresse électronique. Nous collectons aussi votre position pour vous aider à trouver des correspondances près de chez vous.</p>
+    
+    <h2>2. Utilisation des informations</h2>
+    <p>Nous utilisons ces informations pour vous proposer des correspondances, améliorer notre application et communiquer avec vous.</p>
+    
+    <h2>3. Partage des informations</h2>
+    <p>Nous pouvons partager vos informations avec des tiers qui nous aident à gérer notre application, à moins que vous ne nous demandiez de ne pas le faire.</p>
+    
+    <h2>4. Vos choix</h2>
+    <p>Vous avez le droit de mettre à jour ou de supprimer vos informations à tout moment en accédant aux paramètres de votre compte.</p>
+    
+    <h2>5. Contactez-nous</h2>
+    <p>Si vous avez des questions sur cette politique, contactez-nous à moroscomment@gmail.com.</p>
+    
+</body>
+</html>
